@@ -1,1 +1,3 @@
 Četvrta
+
+Nova izmjena u cetvrta.txt!
